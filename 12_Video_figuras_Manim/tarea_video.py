@@ -1,3 +1,10 @@
+# Crear un plano cartesiano
+
+### Trabajo realizado por: Jessica Naomi Millan Sánchez
+### Graficación Computacional
+### Profesora: Hazem Álvarez Rodríguez
+### Clase del 16 de octubre de 2024
+
 from manim import *
 
 class AllShapes(Scene):
