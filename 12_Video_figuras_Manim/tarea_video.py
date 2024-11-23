@@ -1,4 +1,4 @@
-# Crear un plano cartesiano
+# Video de Figuras
 
 ### Trabajo realizado por: Jessica Naomi Millan Sánchez
 ### Graficación Computacional
