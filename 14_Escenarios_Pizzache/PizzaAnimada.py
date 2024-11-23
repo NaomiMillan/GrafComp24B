@@ -3,7 +3,7 @@
 ### Trabajo realizado por: Jessica Naomi Millan Sánchez
 ### Graficación Computacional
 ### Profesora: Hazem Álvarez Rodríguez
-### Clase del 06 de noviembre de 2024
+### Clase del 04 de noviembre de 2024
 
 from manim import *
 
