@@ -20,4 +20,4 @@ Las transformaciones que se presentan son las siguientes:
     Aplica una deformación horizontal (h=−1h=−1) y vertical (v=2v=2).
 
   ° Traslación
-    Desplaza la figura −3−3 unidades en xx y −5−5 unidades en yy.
+    Desplaza la figura en el eje x y en el eje y.
