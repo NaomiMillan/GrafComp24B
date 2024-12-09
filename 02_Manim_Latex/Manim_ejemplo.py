@@ -7,3 +7,4 @@ class Figuras(Scene):
         circ = Circle().set_fill(opacity=1)
         self.play(Transform(sq, circ))
         self.wait()
+#Revisado
